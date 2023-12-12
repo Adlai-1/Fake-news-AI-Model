@@ -6,4 +6,4 @@ Research in FakeNews has highlighted how socialmedia and news outlet are frequen
 Using AI and Persuasive technology to mitigate this problem is a sure solution road to walk on in solving this problem.
 
 # Teck Stack
-Python (Programming Language) and TensorFlow.
+Python (Programming Language) and TensorFlow (FrameWork)
